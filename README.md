@@ -1,16 +1,17 @@
-## Hi there 👋
+## Tech Stack
 
-<!--
-**y4m4s/y4m4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,golang,html,css,cpp&theme=dark&perline=6)](https://go-skill-icons.vercel.app)
 
-Here are some ideas to get you started:
+### Frameworks
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,gin,django&theme=dark&perline=6)](https://go-skill-icons.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DB / Tools
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,firebase,git,github&theme=dark&perline=5)](https://go-skill-icons.vercel.app)
+
+## GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=y4m4s&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4m4s&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
