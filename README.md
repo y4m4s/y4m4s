@@ -1,7 +1,6 @@
 ## About Me
-28卒IT系専門学生です。<br>
 何かを効率化することが好きです。<br>
-AI、Webアプリケーション開発、バックエンドなどに興味があります。
+AIに興味があります。
 
 ## Tech Stack
 
@@ -16,4 +15,4 @@ AI、Webアプリケーション開発、バックエンドなどに興味があ
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vite,nextjs,django,gin&theme=light&perline=10)](https://go-skill-icons.vercel.app)
 
 ### DB / Tools
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgresql,mongodb,firebase,vercel,docker,git,github&theme=light&perline=10)](https://go-skill-icons.vercel.app)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgresql,mongodb,firebase,vercel,docker,git,github,azure&theme=light&perline=10)](https://go-skill-icons.vercel.app)
