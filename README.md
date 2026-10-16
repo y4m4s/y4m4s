@@ -1,18 +1,16 @@
-## About Me
-何かを効率化することが好きです。<br>
-AIに興味があります。
-
 ## Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,golang,cpp" />
+### Main Languages
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,golang&theme=light" />
 
 ### Markup / Styling
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=light" />
 
 ### Frameworks / Libraries
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vite,nextjs,django,gin&theme=light&perline=10)](https://go-skill-icons.vercel.app)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,django,gin,electron,wails&theme=light&perline=10" />
 
-### DB / Tools
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgresql,mongodb,firebase,vercel,docker,git,github,azure&theme=light&perline=10)](https://go-skill-icons.vercel.app)
+### Databases / BaaS
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,mongodb,firebase,opensearch&theme=light&perline=10" />
+
+### Infrastructure / Tools
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,vercel,docker,git,github,cloudflare,aws,azure&theme=light&perline=10" />
