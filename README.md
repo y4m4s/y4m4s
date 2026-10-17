@@ -1,10 +1,5 @@
-## Tech Stack
-
 ### Main Languages
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,golang&theme=light" />
-
-### Markup / Styling
-<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=light" />
 
 ### Frameworks / Libraries
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,django,gin,electron,wails&theme=light&perline=10" />
